@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web/static/css/main.c1a2b049.css",
-    "main.js": "/web/static/js/main.902fa914.js",
+    "main.js": "/web/static/js/main.cb094bfb.js",
     "static/media/homeImage.jpg": "/web/static/media/homeImage.ca216e1e7fcbc87fd017.jpg",
     "static/media/img07.jpg": "/web/static/media/img07.1f67aa38824b98a9a7e0.jpg",
     "static/media/villa 14.jpg": "/web/static/media/villa 14.30339f97bf68c4305500.jpg",
@@ -24,6 +24,7 @@
     "static/media/villa2.jpg": "/web/static/media/villa2.63023da3ca8e97e9cd8a.jpg",
     "static/media/villa7.jpg": "/web/static/media/villa7.864f9302ffaee80dfc7e.jpg",
     "static/media/res5.jpg": "/web/static/media/res5.4e463efefb5eeee6b3f3.jpg",
+    "static/media/Gaur.jpg": "/web/static/media/Gaur.0ebd83eef70033addffb.jpg",
     "static/media/shop9.jpg": "/web/static/media/shop9.f91611d9dfe7502144e2.jpg",
     "static/media/shop011.jpg": "/web/static/media/shop011.25bd67aad9c8834129f2.jpg",
     "static/media/shop09.jpg": "/web/static/media/shop09.25bd67aad9c8834129f2.jpg",
@@ -44,11 +45,14 @@
     "static/media/shop7.jpg": "/web/static/media/shop7.8925344f74bc59a8540f.jpg",
     "static/media/bb.avif": "/web/static/media/bb.52a34a1032f95b19d07d.avif",
     "static/media/res8.jpg": "/web/static/media/res8.8f2bf1931a13bdd9ba78.jpg",
+    "static/media/emii.jpg": "/web/static/media/emii.dd26fe5d9f1e0d677bb0.jpg",
     "static/media/img03.jpg": "/web/static/media/img03.e38d76c45a0b60f06433.jpg",
     "static/media/hotel6.jpg": "/web/static/media/hotel6.ec53487ddf9ae688234b.jpg",
+    "static/media/logow.png": "/web/static/media/logow.23e45a4a265dc04a577e.png",
     "static/media/res9.jpg": "/web/static/media/res9.40b9dd4c5741efad7e58.jpg",
     "static/media/res12.jpg": "/web/static/media/res12.f6c405d0b0639283dee4.jpg",
     "static/media/res10.jpg": "/web/static/media/res10.c616179a83d6e36a1f78.jpg",
+    "static/media/happy.jpg": "/web/static/media/happy.4a57bd2f38b4e46d552f.jpg",
     "static/media/res13.jpg": "/web/static/media/res13.999dfea10e2a7f23fbe6.jpg",
     "static/media/hotel7.jpg": "/web/static/media/hotel7.6fe23dd75d8811df6080.jpg",
     "static/media/shop02.jpg": "/web/static/media/shop02.0fa339074f38eaec469a.jpg",
@@ -73,19 +77,18 @@
     "static/media/shop4.jpg": "/web/static/media/shop4.60fdd0543c89eecf1dc9.jpg",
     "static/media/shop06.jpg": "/web/static/media/shop06.72bda89d96d231d6b8bd.jpg",
     "static/media/wowfills.jpg": "/web/static/media/wowfills.5b721e2d827bfa39dc94.jpg",
-    "static/media/appbar.jpg": "/web/static/media/appbar.1a38cd9e862ffd235b28.jpg",
+    "static/media/client7.jpg": "/web/static/media/client7.9389333005fe681e0b52.jpg",
     "static/media/war.avif": "/web/static/media/war.bdbf085e9d8ae6fae820.avif",
-    "static/media/cust.png": "/web/static/media/cust.665fe316ff09e8cffccf.png",
     "static/media/consult.avif": "/web/static/media/consult.83b469e50260eaa3d100.avif",
     "static/media/design.avif": "/web/static/media/design.8e38277fe15d397c8c14.avif",
     "static/media/cream.avif": "/web/static/media/cream.12d124dac2a9feabbd62.avif",
     "static/media/kg.jpeg": "/web/static/media/kg.80348a9991b54753ad75.jpeg",
     "index.html": "/web/index.html",
     "main.c1a2b049.css.map": "/web/static/css/main.c1a2b049.css.map",
-    "main.902fa914.js.map": "/web/static/js/main.902fa914.js.map"
+    "main.cb094bfb.js.map": "/web/static/js/main.cb094bfb.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a2b049.css",
-    "static/js/main.902fa914.js"
+    "static/js/main.cb094bfb.js"
   ]
 }
