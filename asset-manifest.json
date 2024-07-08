@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/web/static/css/main.c1a2b049.css",
-    "main.js": "/web/static/js/main.cb094bfb.js",
+    "main.js": "/web/static/js/main.c892f088.js",
     "static/media/homeImage.jpg": "/web/static/media/homeImage.ca216e1e7fcbc87fd017.jpg",
+    "static/media/res15.jpg": "/web/static/media/res15.e4c4e7670c84522ba7b9.jpg",
     "static/media/img07.jpg": "/web/static/media/img07.1f67aa38824b98a9a7e0.jpg",
     "static/media/villa 14.jpg": "/web/static/media/villa 14.30339f97bf68c4305500.jpg",
     "static/media/img05.jpg": "/web/static/media/img05.06557959225a9505d832.jpg",
@@ -11,6 +12,7 @@
     "static/media/villa17.jpg": "/web/static/media/villa17.8ae947aa808e43631a44.jpg",
     "static/media/img11.jpg": "/web/static/media/img11.7171064089132c26834d.jpg",
     "static/media/villa12.jpg": "/web/static/media/villa12.5ceff949715be702ae0f.jpg",
+    "static/media/res14.jpg": "/web/static/media/res14.967d12e7cdfabdb0af3b.jpg",
     "static/media/img06.jpg": "/web/static/media/img06.faad3c14d3a97f03d0a5.jpg",
     "static/media/villa13.jpg": "/web/static/media/villa13.d643faae8a58df6356e8.jpg",
     "static/media/villa8.jpg": "/web/static/media/villa8.6a6ecf01f70ade386174.jpg",
@@ -18,6 +20,8 @@
     "static/media/villa15.jpg": "/web/static/media/villa15.ca8a9a8fb6d0a1db754c.jpg",
     "static/media/villa10.jpg": "/web/static/media/villa10.6fc1976b426950bfbdc9.jpg",
     "static/media/villa11.jpg": "/web/static/media/villa11.2cff7aa132b58309d896.jpg",
+    "static/media/res17.jpg": "/web/static/media/res17.0be2ca6e59c798fc7a4b.jpg",
+    "static/media/res16.jpg": "/web/static/media/res16.405a528163237bd25824.jpg",
     "static/media/img20.jpg": "/web/static/media/img20.1eb538ea5640b2c8cca2.jpg",
     "static/media/img19.jpg": "/web/static/media/img19.2104fdb0cb7b8a71efad.jpg",
     "static/media/img04.jpg": "/web/static/media/img04.6ad4157dd08eb9984ffc.jpg",
@@ -48,8 +52,10 @@
     "static/media/emii.jpg": "/web/static/media/emii.dd26fe5d9f1e0d677bb0.jpg",
     "static/media/img03.jpg": "/web/static/media/img03.e38d76c45a0b60f06433.jpg",
     "static/media/hotel6.jpg": "/web/static/media/hotel6.ec53487ddf9ae688234b.jpg",
+    "static/media/shop16.jpg": "/web/static/media/shop16.7a8b8b240eb3c8ad7ea1.jpg",
     "static/media/logow.png": "/web/static/media/logow.23e45a4a265dc04a577e.png",
     "static/media/res9.jpg": "/web/static/media/res9.40b9dd4c5741efad7e58.jpg",
+    "static/media/shop15.jpg": "/web/static/media/shop15.4b2876c623641b8e4943.jpg",
     "static/media/res12.jpg": "/web/static/media/res12.f6c405d0b0639283dee4.jpg",
     "static/media/res10.jpg": "/web/static/media/res10.c616179a83d6e36a1f78.jpg",
     "static/media/happy.jpg": "/web/static/media/happy.4a57bd2f38b4e46d552f.jpg",
@@ -57,6 +63,7 @@
     "static/media/hotel7.jpg": "/web/static/media/hotel7.6fe23dd75d8811df6080.jpg",
     "static/media/shop02.jpg": "/web/static/media/shop02.0fa339074f38eaec469a.jpg",
     "static/media/hotel5.jpg": "/web/static/media/hotel5.4b763037fdf87819c479.jpg",
+    "static/media/shop14.jpg": "/web/static/media/shop14.f2df8453435df63d2c00.jpg",
     "static/media/shop03.jpg": "/web/static/media/shop03.65a05301a48c82892f6d.jpg",
     "static/media/hotel11.jpg": "/web/static/media/hotel11.bc980e573cf81e151a04.jpg",
     "static/media/hotel4.jpg": "/web/static/media/hotel4.e8991796de685895f89c.jpg",
@@ -85,10 +92,10 @@
     "static/media/kg.jpeg": "/web/static/media/kg.80348a9991b54753ad75.jpeg",
     "index.html": "/web/index.html",
     "main.c1a2b049.css.map": "/web/static/css/main.c1a2b049.css.map",
-    "main.cb094bfb.js.map": "/web/static/js/main.cb094bfb.js.map"
+    "main.c892f088.js.map": "/web/static/js/main.c892f088.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a2b049.css",
-    "static/js/main.cb094bfb.js"
+    "static/js/main.c892f088.js"
   ]
 }
